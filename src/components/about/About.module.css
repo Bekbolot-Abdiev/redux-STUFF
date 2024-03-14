@@ -1,0 +1,52 @@
+.about {
+  padding-top: 20px;
+  display: flex;
+  /* justify-content: space-between; */
+  padding-bottom: 20px;
+}
+
+.aboutLeft {
+  border-radius: 6px 0 0 6px;
+  background-color: #191919;
+  width: 657px;
+  text-align: center;
+  padding-top: 74px;
+}
+
+.aboutLeft p {
+  font-size: 70px;
+  color: #6c3eb8;
+  font-weight: 100;
+}
+
+.aboutLeft h2 {
+  font-weight: 300;
+  font-size: 150px;
+  color: #6c3eb8;
+}
+
+.aboutLeft button {
+  border-radius: 6px;
+  border: none;
+  color: white;
+  background-color: #6c3eb8;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 9px 20px 9px 20px;
+}
+
+.cross {
+  position: absolute;
+  top: 1500px;
+  left: 85px;
+}
+
+.sony {
+  position: absolute;
+  top: 1610px;
+  left: 520px;
+}
+
+/* .aboutCard {
+  display: flex;
+} */

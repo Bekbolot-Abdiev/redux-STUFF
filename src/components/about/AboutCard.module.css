@@ -1,0 +1,57 @@
+.aboutCards {
+  margin-top: 50px;
+  padding-top: 30px;
+  background-color: #191919;
+  border-radius: 6px;
+  padding-bottom: 20px;
+}
+
+.aboutCard {
+  display: flex;
+  justify-content: space-between;
+  /* justify-content: space-between; */
+}
+
+.aboutBody {
+  color: white;
+  text-align: left;
+  background-color: #212121;
+}
+
+.aboutBody h2 {
+  color: #6c3eb8;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.aboutBody h5 {
+  text-align: left;
+  /* line-height:5px; */
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.aboutBody h6 {
+  font-size: 15px;
+  font-weight: 600;
+  color: #b8b8b8;
+}
+
+.aboutCards h3 {
+  padding-bottom: 24px;
+  font-size: 20pxp;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+
+.aboutCards button {
+  border-radius: 6px;
+  border: none;
+  color: white;
+  background-color: #6c3eb8;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 9px 20px 9px 20px;
+  margin-left: 572px;
+}

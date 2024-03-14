@@ -1,0 +1,37 @@
+.footer {
+  margin-top: 20px;
+  height: 75px;
+  background-color: #191919;
+  border-radius: 6px;
+  padding-bottom: 20px;
+}
+
+.listFooter {
+  width: 1260px;
+  margin: 0 auto;
+  padding-top: 24px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.listFooter span {
+  color: #6c3eb8;
+}
+
+.listFooter p {
+  color: #576067;
+}
+
+.sosSet {
+  display: flex;
+}
+
+.sosSet h4 {
+  color: #576067;
+  padding-left: 15px;
+}
+
+.sosSet h4:hover {
+  font-size: 20px;
+  color: #6c3eb8;
+}

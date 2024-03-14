@@ -1,0 +1,27 @@
+.card {
+  /* background-color: #191919; */
+}
+
+.cardBody {
+  color: white;
+  background-color: #212121;
+}
+
+.cardBody h3 {
+  color: #6c3eb8;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.cardBody h4 {
+  text-align: left;
+  /* line-height:5px; */
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.cardBody h6 {
+  font-size: 15px;
+  font-weight: 600;
+  color: #b8b8b8;
+}
